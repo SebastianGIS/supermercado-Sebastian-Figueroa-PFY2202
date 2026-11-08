@@ -13,7 +13,7 @@ const Cargando = () => <div className="text-center mt-10 text-xl text-gray-500">
 
 function AppRoutes() {
   return (
-    <Router>
+    <Router basename={process.env.PUBLIC_URL}>
       <Suspense fallback={<Cargando />}>
         <Routes>
           {/* Ruta padre que aplica el Layout a todas las subrutas */}

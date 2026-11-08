@@ -4,7 +4,7 @@
 
 App construida con React que simula la gestión de inventario y el carrito de compras de un supermercado, aplicando arquitectura modular, buenas prácticas de enrutamiento y manejo avanzado del estado global.
 
-🔗 **[Ver la aplicación en vivo aquí](https://sebastiangis.github.io/)**
+🔗 **[Ver la aplicación en vivo aquí](https://sebastiangis.github.io/supermercado-Sebastian-Figueroa-PFY2202)**
 
 
 ## Tecnologías Utilizadas
