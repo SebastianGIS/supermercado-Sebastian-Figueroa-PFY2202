@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/supermercado-Sebastian-Figueroa-PFY2202/static/css/main.890150fd.css",
-    "main.js": "/supermercado-Sebastian-Figueroa-PFY2202/static/js/main.98e19255.js",
+    "main.js": "/supermercado-Sebastian-Figueroa-PFY2202/static/js/main.82abce35.js",
     "static/js/116.fce4748b.chunk.js": "/supermercado-Sebastian-Figueroa-PFY2202/static/js/116.fce4748b.chunk.js",
     "static/js/739.c05c5516.chunk.js": "/supermercado-Sebastian-Figueroa-PFY2202/static/js/739.c05c5516.chunk.js",
     "static/js/89.c8fbc41f.chunk.js": "/supermercado-Sebastian-Figueroa-PFY2202/static/js/89.c8fbc41f.chunk.js",
@@ -9,7 +9,7 @@
     "static/js/453.a10a71d1.chunk.js": "/supermercado-Sebastian-Figueroa-PFY2202/static/js/453.a10a71d1.chunk.js",
     "index.html": "/supermercado-Sebastian-Figueroa-PFY2202/index.html",
     "main.890150fd.css.map": "/supermercado-Sebastian-Figueroa-PFY2202/static/css/main.890150fd.css.map",
-    "main.98e19255.js.map": "/supermercado-Sebastian-Figueroa-PFY2202/static/js/main.98e19255.js.map",
+    "main.82abce35.js.map": "/supermercado-Sebastian-Figueroa-PFY2202/static/js/main.82abce35.js.map",
     "116.fce4748b.chunk.js.map": "/supermercado-Sebastian-Figueroa-PFY2202/static/js/116.fce4748b.chunk.js.map",
     "739.c05c5516.chunk.js.map": "/supermercado-Sebastian-Figueroa-PFY2202/static/js/739.c05c5516.chunk.js.map",
     "89.c8fbc41f.chunk.js.map": "/supermercado-Sebastian-Figueroa-PFY2202/static/js/89.c8fbc41f.chunk.js.map",
@@ -18,6 +18,6 @@
   },
   "entrypoints": [
     "static/css/main.890150fd.css",
-    "static/js/main.98e19255.js"
+    "static/js/main.82abce35.js"
   ]
 }
